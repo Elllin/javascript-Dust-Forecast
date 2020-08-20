@@ -1,14 +1,14 @@
 ## 개요
 
-기간 : 2020-03-23 ~ 2020-03-27
-인원 : Back-end(1인), Front-end(2인), IOS(1인)
-담당 : Front-end (forcast)
+- 기간 : 2020-03-23 ~ 2020-03-27
+- 인원 : Back-end(1인), Front-end(2인), IOS(1인)
+- 담당 : Front-end (forcast)
 
 ## 사용 도구 및 기술
 
-HTML
-CSS
-Javascript (모바일 웹개발, Touch Event, rAF, webpack)
+- HTML
+- CSS
+- Javascript (모바일 웹개발, Touch Event, rAF, webpack)
 
 ## [미션] 미세먼지정보 페이지 만들기 - 페어로 진행
 
