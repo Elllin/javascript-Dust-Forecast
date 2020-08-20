@@ -27,8 +27,7 @@
 
 ## 기능구현 이미지
 
-![데모이미지](./images/모바일웹.gif)
-
+![데모이미지](./src/images/모바일웹.gif)
 
 ## issue관리
 
@@ -67,6 +66,7 @@
 [팀프로젝트 회고](https://docs.google.com/spreadsheets/d/1fJFNi1TQ0JLXc9f8Ty3dngoTvGK8dPKeVfhXwNd2_8k/edit#gid=1950847730)
 
 ## 코드리뷰
+
 [코드리뷰](https://github.com/codesquad-member-2020/dust-10/pull/46)
 
 ![](./images/1.PNG)
