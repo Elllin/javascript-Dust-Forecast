@@ -1,10 +1,10 @@
-# 개요
+## 개요
 
 기간 : 2020-03-23 ~ 2020-03-27
 인원 : Back-end(1인), Front-end(2인), IOS(1인)
 담당 : Front-end (forcast)
 
-# 사용 도구 및 기술
+## 사용 도구 및 기술
 
 HTML
 CSS
@@ -17,10 +17,6 @@ Javascript (모바일 웹개발, Touch Event, rAF, webpack)
 ## 기능구현 이미지
 
 ![데모이미지](./src/images/모바일웹.gif)
-
-## issue관리
-
-[기능구현 issue 정리](https://github.com/codesquad-member-2020/dust-10/issues/10)
 
 ## 문제 해결
 
@@ -59,10 +55,14 @@ Javascript (모바일 웹개발, Touch Event, rAF, webpack)
 중간에 giuhub의 내부 오류가 발생해 이용할 수가 없다는 핑계로 이슈를 하나로 작성하게 된 것 같다. 다른 팀원들의 글 게시수가 월등히 많은 것을 보고 많이 반성했다. 앞으로는 기능별로 잘 나눠서 작성하도록 그리고 커밋도 꼭 잘 하도록 노력해야겠다.
 [팀프로젝트 회고](https://docs.google.com/spreadsheets/d/1fJFNi1TQ0JLXc9f8Ty3dngoTvGK8dPKeVfhXwNd2_8k/edit#gid=1950847730)
 
+## issue관리
+
+[기능구현 issue 정리](https://github.com/codesquad-member-2020/dust-10/issues/10)
+
 ## 코드리뷰
 
 [코드리뷰](https://github.com/codesquad-member-2020/dust-10/pull/46)
 
-![](./images/1.PNG)
-![](./images/2.PNG)
-![](./images/3.PNG)
+![](./src/images/1.PNG)
+![](./src/images/2.PNG)
+![](./src/images/3.PNG)
